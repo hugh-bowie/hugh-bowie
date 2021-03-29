@@ -1,1 +1,1 @@
-# GitHub Pages Personal site -hugh-bowie
+# GitHub Pages Weekly Challege Site
