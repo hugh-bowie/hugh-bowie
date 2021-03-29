@@ -1,3 +1,3 @@
-# GitHub Pages Weekly Challege Site
+# Weekly Challege Repo
 
 ## This Week: Code Refactoring
